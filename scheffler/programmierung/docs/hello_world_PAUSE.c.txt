@@ -1,0 +1,23 @@
+/*  Name: hello_world_PAUSE.c
+ *  
+ *  Das ist ein Beispielprogramm, welches betriebssystemabhängige Funktionen nutzt.
+ *
+ *  Autor: Thomas Scheffler
+ *
+ *  Version: 1.0, 3.3.2011
+ */
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(void)
+{
+	printf("Hello World!");
+	
+	system("PAUSE"); /* Kleiner Trick, damit das Programm sich unter Windows aufrufen lässt!
+	  Es wird eine Betriebssystemfunktion aufgerufen, welche verhindert, dass sich das Fenster
+	  der Anwendung sofort nach Programmende wieder schließt
+	  Achtung: Damit wird das Programm betriebssystemabhängig und läuft nicht mehr unter Linux u.a. */
+	
+	return EXIT_SUCCESS;
+}

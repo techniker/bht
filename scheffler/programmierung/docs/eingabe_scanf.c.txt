@@ -1,0 +1,42 @@
+/*
+*  Programm liest Zahlen von der Tastatur
+*  bei fehlerhafter Eingabe wird erneut nachgefragt
+*
+*  Author: Thomas Scheffler
+*  Datum: 5.3.2011
+*/
+#include <stdio.h>
+
+void ClearInputBuffer(void)
+{
+	char ch; /* helper variable stores discarded chars*/
+	while ((ch = getchar()) != '\n' && ch != EOF); /* now we empty the input buffer*/
+}
+
+
+
+int main(void)
+{
+	int auswertung = 1; /* Initialisierung unsere Auswertung */
+	int eingabe;   /* Eingabevariable */
+
+
+	do /* Wiederhole die Eingabe bis eine Zahl eingegeben wurde */
+	{
+	   if (auswertung == 0)
+	   {
+	       printf("Bitte nur Zahlen eingeben!\n");
+	   }
+	   else
+	   {
+	       printf("Bitte geben Sie eine Zahl ein!\n");
+	   }
+	   auswertung = scanf("%i",&eingabe);
+	   ClearInputBuffer();
+	}
+	while (auswertung == 0);
+
+	printf("Die Zahl %i wurde eingegeben.\n",eingabe);
+
+    system ("pause");
+}
