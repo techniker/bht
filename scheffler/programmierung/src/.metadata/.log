@@ -62,3 +62,13 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.cdt.core 1 0 2011-04-06 13:02:57.147
 !MESSAGE Indexed 'hello_world' (1 sources, 41 headers) in 2.37 sec: 1,353 declarations; 1,543 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+!SESSION 2011-04-06 13:04:59.462 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2011-04-06 13:14:50.057
+!MESSAGE Indexed 'vorlesung230410' (0 sources, 33 headers) in 1.39 sec: 617 declarations; 708 references; 3 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
