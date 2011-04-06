@@ -1,8 +1,16 @@
-Klausur: 18.05.11
+klausur: 18.05.11 (9:45 Uhr)
+
+2 einseitig beschriebene DIN A4 Blätter
+Einfacher Taschenrechner
+Pfuschzettel
+
+--
 
 25.5.11 fällt aus
 
 1.6.11 erster praktikumstermin
+
+->:09:45 (15min pause)
 
 BKE 4
 
@@ -22,3 +30,15 @@ beachten die Regeln der physikalisch-technischen Ausdrucksweise
 kennen den Aufbau und die Regeln des SI-Einheitssystems
 
 Moodle Pass: egal
+
+Stoff:
+
+Mechanik
+Schwingungen
+Wellen
+Optik
+Atomphysik
+
+--
+
+
