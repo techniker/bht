@@ -1,0 +1,51 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1302087917377
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1302087917377
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1302087917378
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1302087917379
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1302087917379
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1302087917380
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1302087917380
+os,sysinfo,,,"linux",1302087917384
+arch,sysinfo,,,"x86_64",1302087917384
+ws,sysinfo,,,"gtk",1302087917384
+locale,sysinfo,,,"en_US",1302087917384
+processors,sysinfo,,,"2",1302087917384
+java.runtime.name,sysinfo,,,"OpenJDK Runtime Environment",1302087917384
+java.runtime.version,sysinfo,,,"1.6.0_20-b20",1302087917384
+java.specification.name,sysinfo,,,"Java Platform API Specification",1302087917384
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1302087917384
+java.specification.version,sysinfo,,,"1.6",1302087917384
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1302087917384
+java.version,sysinfo,,,"1.6.0_20",1302087917384
+java.vm.info,sysinfo,,,"mixed mode",1302087917385
+java.vm.name,sysinfo,,,"OpenJDK 64-Bit Server VM",1302087917385
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1302087917385
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1302087917385
+java.vm.specification.version,sysinfo,,,"1.0",1302087917385
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1302087917385
+java.vm.version,sysinfo,,,"19.0-b09",1302087917385
+started,bundle,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui",1302087926921
+started,bundle,org.eclipse.cdt.debug.core,7.0.0.201102110609,"org.eclipse.cdt.debug.core",1302087926985
+started,bundle,org.eclipse.cdt.debug.ui,7.0.0.201102110609,"org.eclipse.cdt.debug.ui",1302087926991
+started,bundle,org.eclipse.cdt.launch,6.1.0.201102110609,"org.eclipse.cdt.launch",1302087927011
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,7.0.0.201102110609,"org.eclipse.cdt.managedbuilder.gnu.ui",1302087927200
+started,bundle,org.eclipse.cdt.debug.mi.ui,6.1.0.201102110609,"org.eclipse.cdt.debug.mi.ui",1302087928404
+started,bundle,org.eclipse.cdt.dsf,2.1.1.201102110609,"org.eclipse.cdt.dsf",1302087928426
+started,bundle,org.eclipse.cdt.dsf.gdb,3.0.0.201102110609,"org.eclipse.cdt.dsf.gdb",1302087928428
+started,bundle,org.eclipse.cdt.dsf.gdb.ui,2.1.0.201102110609,"org.eclipse.cdt.dsf.gdb.ui",1302087928430
+started,bundle,org.eclipse.cdt.debug.mi.core,7.0.1.201102110609,"org.eclipse.cdt.debug.mi.core",1302087928462
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302087934426
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302087935095
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302087937348
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088057102
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088059888
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088062549
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088064963
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088197319
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088198989
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088199438
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088200860
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088241625
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088242508
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1302088244140
