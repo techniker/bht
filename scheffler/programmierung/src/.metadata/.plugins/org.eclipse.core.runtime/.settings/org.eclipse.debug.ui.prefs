@@ -1,4 +1,5 @@
-#Wed Apr 06 13:03:47 CEST 2011
+#Fri Apr 15 23:20:45 CEST 2011
+org.eclipse.debug.ui.cancel_launch_with_compile_errors=always
 eclipse.preferences.version=1
 preferredTargets=org.eclipse.cdt.debug.ui.toggleCBreakpointTarget\:org.eclipse.cdt.debug.ui.toggleCBreakpointTarget|
 org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives/>\n
