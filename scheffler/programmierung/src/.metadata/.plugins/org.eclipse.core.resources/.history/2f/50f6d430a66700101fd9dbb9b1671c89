@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : time1.c
+ Author      : Bjoern Heller
+ Version     :
+ Copyright   : This code is licensed under GNU/ GPL
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main(void) {
+
+	time_t zeit;
+	  time ( &zeit );
+	  time ( &datum );
+	  printf ( "Die Ausgabe von ctime ist: %s\n", ctime (&zeit));
+
+	 printf ("%s", ctime(&datum));
+
+	return EXIT_SUCCESS;
+}

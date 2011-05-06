@@ -1,0 +1,16 @@
+
+**** Build of configuration Debug for project primzahlen ****
+
+make all 
+Building file: ../src/primzahlen.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/primzahlen.d" -MT"src/primzahlen.d" -o"src/primzahlen.o" "../src/primzahlen.c"
+../src/primzahlen.c: In function ‘main’:
+../src/primzahlen.c:19: warning: statement with no effect
+Finished building: ../src/primzahlen.c
+ 
+Building target: primzahlen
+Invoking: GCC C Linker
+gcc  -o"primzahlen"  ./src/primzahlen.o   
+Finished building target: primzahlen
+ 
